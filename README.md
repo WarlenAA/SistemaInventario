@@ -1,0 +1,1 @@
+Trabalho de extensão da faculdade Estácio da matéria de Desenvolvimento rápido de aplicações em Python com o seguinte tema: Desenvolvimento de Sistema de Gerenciamento de Inventário para o mercado comunitário Esperança
